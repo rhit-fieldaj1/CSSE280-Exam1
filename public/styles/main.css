@@ -1,0 +1,35 @@
+body {
+    font-family: 'Croissant One', sans-serif;
+}
+
+footer {
+    background-color: #ffa953;
+    height: 10vh;
+    margin: 10vh 0px;
+}
+
+footer img {
+    height: 5vh;
+    margin: 1vh;
+}
+
+.card-img-top > img {
+    height: 30vw;
+    margin: 10vw;
+    margin-top: 1px;
+    padding: 0px;
+}
+
+
+.card {
+    margin-top: 150px
+}
+
+.card-title {
+    margin-left: 10vw;
+    margin-bottom: 1px;
+}
+
+.row > div {
+    margin-top: 150px;
+}
